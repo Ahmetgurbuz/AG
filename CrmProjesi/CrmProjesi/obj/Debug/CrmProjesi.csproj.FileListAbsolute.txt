@@ -1,0 +1,14 @@
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\bin\Debug\CrmProjesi.exe.config
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\bin\Debug\CrmProjesi.exe
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\bin\Debug\CrmProjesi.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.Properties.Resources.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.exe
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.Anaform.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.musteribilgigirisi.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.Arama.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.Urunbilgileri.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.Uruneklecs.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Debug\CrmProjesi.iliski.resources

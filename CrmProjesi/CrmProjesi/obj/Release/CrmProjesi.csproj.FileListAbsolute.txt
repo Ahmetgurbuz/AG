@@ -1,0 +1,5 @@
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\bin\Release\CrmProjesi.exe.config
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Release\CrmProjesi.Anaform.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Release\CrmProjesi.musteribilgigirisi.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Release\CrmProjesi.Properties.Resources.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\CrmProjesi\CrmProjesi\obj\Release\CrmProjesi.csproj.GenerateResource.Cache
